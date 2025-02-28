@@ -7,7 +7,7 @@ stage('clone')
 {
 steps
 {
-git "https://github.com/Melon654/demo2-rev.git"
+git "https://github.com/swapnavbit/new1.git"
 }
 }
   stage('build')
